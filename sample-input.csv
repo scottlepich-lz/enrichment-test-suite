@@ -1,0 +1,2 @@
+EVENT_ID,FULL_EVENT_PAYLOAD
+sample-id-1,"{\"event\":\"Order Completed\",\"properties\":{\"order_id\":\"12345\",\"total\":99.00,\"products\":[{\"product_id\":\"8868\",\"name\":\"Test Product\",\"price\":99.00,\"quantity\":1}]},\"context\":{\"identifiers\":{}}}"
